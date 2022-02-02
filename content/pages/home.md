@@ -20,7 +20,7 @@ meta:
 ---
 Vi vet – att bygga ett lönsamt bolag är svårt. Med oss bygger du enklare, effektivare och mindre stressigt. Samtidigt som vi har kul tillsammans på resan.
 
-Inom kort kommer det massa mer om hur vi på Rotor kan hjälpa dig få igång din försäljning. Vi håller på att göra en total makeover och snygga kommer vi bli – så håll ut.
+Inom kort kommer sajten innehålla massa mer om hur vi på Rotor kan hjälpa dig få igång din försäljning. Vi håller på att göra en total makeover och snyggt kommer det bli – så håll ut.
 
 Vill du komma i kontakt med oss mejla [daniel.hultborn@rotormediagroup.se](mailto:daniel.hultborn@rotormediagroup.se) eller ringer du mig på [0768-472147](tel:0768-472147).
 
