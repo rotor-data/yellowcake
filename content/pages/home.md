@@ -1,30 +1,72 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Digital marknadsföring –> ökad försäljning
+featuredImage: https://ucarecdn.com/e35fafaa-6743-4ec0-9f82-10bc79a20271/
+subtitle: >-
+  (Webbplats under konstruktion)
+
+
+
+
+  DIGITAL MARKNADSFÖRING som ger ditt företag pengarna tillbaka flera gånger om. Fler kunder, fler möten, fler ordrar.
+
+
+  Mer effektiva budskap på rätt kanaler, i en form som gör att du sticker ut bland dina konkurrenter.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Rotor - digitalbyrå Stockholm
+  title: Rotor - digitalbyrå Stockholm
 ---
+Vi vet – att bygga ett lönsamt bolag är svårt. Med oss bygger du enklare, effektivare och mindre stressigt. Samtidigt som vi ska ha kul tillsammans på resan.
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+I vår metod “Digital Uplift” har vi samlat allt du behöver för att kunna skala din försäljning.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+**1. GET STARTED** 
 
-# Features
+Du får svar på hur dina konkurrenter skaffar kunder, vad de spenderar och vad du ska göra för att ta dig förbi.
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+**2. TRIAL**
 
-## Get started
+Tillsammans tar vi fram hypotesen som ska krossa konkurrenterna. Väljer plattformar, publicerar och optimerar kampanjer tills önskat mål nås.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+**3. ON A ROLL**
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Din annonsering är i full gång. Leads, möten och kunder börjar strömma in i allt högre takt. Du får löpande analyser och rapporter. Allt tweakas och ändras för att fungera ännu mer effektivt.
+
+**\---**
+
+**VI HAR EXPERTER INOM FÖLJANDE OMRÅDEN**
+
+Våra kunder använder oss oftast som strategisk partner där vi varje månad jobbar operativt tillsammans – de ser oss som en förlängning av den egna marknadsavdelningen.
+
+**STRATEGI**
+
+– Digital marknadsföring
+
+SEM/PPC
+
+SEO
+
+Social media ads
+
+CRO
+
+– Varumärke: Budskap, positionering, grafisk profil
+
+– Digital målgrupps- och konkurrentanalys
+
+– PR
+
+**COPYWRITING**
+
+– Senior copywriting och UX-writing
+
+**TEKNIK OCH PRODUKTION**
+
+– Performance marketing, uppsättning och optimering
+
+– Animation, film och bilder
+
+– Webbdesign
+
+– Front end development
