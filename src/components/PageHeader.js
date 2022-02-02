@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import Image from './Image'
 import Content from './Content'
 import './PageHeader.css'
+import Logo from './Logo'
 
 const PageHeader = ({
   title,
@@ -25,6 +26,7 @@ const PageHeader = ({
         />
       )}
       <div className="container relative">
+      <Logo />
         <h1 className="PageHeader--Title">{title}</h1>
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
