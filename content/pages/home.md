@@ -22,6 +22,6 @@ Vi vet – att bygga ett lönsamt bolag är svårt. Med oss bygger du enklare, e
 
 Inom kort kommer sajten innehålla massa mer om hur vi på Rotor kan hjälpa dig få igång din försäljning. Vi håller på att göra en total makeover och snyggt kommer det bli – så håll ut.
 
-Vill du komma i kontakt med oss mejla [daniel.hultborn@rotormediagroup.se](mailto:daniel.hultborn@rotormediagroup.se) eller ringer du mig på [0768-472147](tel:0768-472147).
+Vill du komma i kontakt med oss mejla mig på [daniel.hultborn@rotormediagroup.se](mailto:daniel.hultborn@rotormediagroup.se) eller ring på [0768-472147](tel:0768-472147).
 
 /Daniel Hultborn, vd Rotor
