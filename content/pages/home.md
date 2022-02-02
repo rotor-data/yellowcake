@@ -70,3 +70,13 @@ CRO
 – Webbdesign
 
 – Front end development
+
+\---
+
+**Kontakt:** 
+
+Daniel Hultborn, vd
+
+daniel.hultborn@rotormediagroup.se
+
+076-847 21 47
